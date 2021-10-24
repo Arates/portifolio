@@ -224,3 +224,36 @@ footer {
     opacity: 0.8;
     font-family: "Open Sans", sans-serif;
   }
+
+  @media screen and (min-width: 768px){
+  }
+
+  *{
+      text-align: center;
+      
+  }
+  header{
+      display: inline-block;
+      padding: 0%;
+  }
+  header .dados {
+      margin-top: 120px;      
+  }
+ main{
+     width: 100%;
+     display: inline-block;
+     padding: 0;
+ }
+ .experiencia, .habilidades, .projeto, .resumo {
+     display: inline-block;
+ }
+
+.projetos, .experiencias2, .experiencias, .habilidade, .resumos{
+    width: 320px;
+    margin-left: 0;
+    margin-right: 0;
+    
+}
+.linha{
+    display: inline-block;
+}
