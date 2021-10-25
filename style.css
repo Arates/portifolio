@@ -190,6 +190,7 @@ a {
 }
 .projeto{
     display: flex;
+    flex-wrap: wrap;
 }
 .projetos h2{
     font-size: 30px;
